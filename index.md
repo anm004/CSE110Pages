@@ -5,7 +5,7 @@
 [Headshot](.\Andrew Martinez Headshot.jpg)
 
 I'm a third year Computer Engineering student from Muir college.
-My current hobbies are cooking, watching movies, going outdoors, and I've been learning how to sew.
+My current hobbies are cooking, watching movies, and going outdoors.
 
 [mood](.\add.jpg)
 
